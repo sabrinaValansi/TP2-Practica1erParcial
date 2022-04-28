@@ -1,0 +1,56 @@
+[
+    {
+        "id": 6,
+        "sucursal": 5,
+        "numero": 50,
+        "importe": 450000
+    },
+    {
+        "id": 8,
+        "sucursal": 6,
+        "numero": 80,
+        "importe": 11600
+    },
+    {
+        "id": 7,
+        "sucursal": 5,
+        "numero": 70,
+        "importe": 11500
+    },
+    {
+        "id": 5,
+        "sucursal": 5,
+        "numero": 40,
+        "importe": 8000
+    },
+    {
+        "id": 2,
+        "sucursal": 4,
+        "numero": 30,
+        "importe": 7500
+    },
+    {
+        "id": 9,
+        "sucursal": 9,
+        "numero": 90,
+        "importe": 7000
+    },
+    {
+        "id": 4,
+        "sucursal": 4,
+        "numero": 50,
+        "importe": 4000
+    },
+    {
+        "id": 3,
+        "sucursal": 4,
+        "numero": 40,
+        "importe": 3000
+    },
+    {
+        "id": 1,
+        "sucursal": 4,
+        "numero": 20,
+        "importe": 1600
+    }
+]
