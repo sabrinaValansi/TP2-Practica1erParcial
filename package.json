@@ -5,7 +5,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node src/main.js",
+    "start": "node ./src/resources/index.js",
     "test": "node src/main.js"
   },
   "keywords": [],
