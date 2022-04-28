@@ -1,5 +1,5 @@
 import fs from 'fs'
-
+console.log("Hola");
 //import {facturas} from './modelos/facturas.js'
 
 import {procesarFacturas} from './services/procesarFacturas.js'
